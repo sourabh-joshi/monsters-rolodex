@@ -1,0 +1,8 @@
+{
+  "short_name": "Monsters Rolodex",
+  "name": "Monsters Rolodex",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
